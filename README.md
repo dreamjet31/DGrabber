@@ -1,8 +1,8 @@
 # DGrabber
 
-[![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/DGrabber)](https://github.com/Ishanoshada/DGrabber/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishanoshada/DGrabber)](https://github.com/ishanoshada/DGrabber/network)
-[![License](https://img.shields.io/github/license/Ishanoshada/DGrabber)](https://github.com/Ishanoshada/DGrabber/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/flurryunicorn/DGrabber)](https://github.com/flurryunicorn/DGrabber/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/flurryunicorn/DGrabber)](https://github.com/flurryunicorn/DGrabber/network)
+[![License](https://img.shields.io/github/license/flurryunicorn/DGrabber)](https://github.com/flurryunicorn/DGrabber/blob/main/LICENSE)
 ## Introduction
 
 DGrabber is a Python script that helps you find domains based on keywords. It utilizes web scraping to retrieve domain information from a website. This tool can be used for various purposes like domain research, data collection, and more.
@@ -14,7 +14,7 @@ DGrabber is a Python script that helps you find domains based on keywords. It ut
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ishanoshada/DGrabber.git
+git clone https://github.com/flurryunicorn/DGrabber.git
 ```
 
 2. Install the required packages:
